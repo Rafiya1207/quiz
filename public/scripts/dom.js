@@ -23,5 +23,6 @@ export const ELEMENTS = {
   H2: 'h2',
   INPUT: 'input',
   LABEL: 'label',
-  BUTTON: 'button'
+  BUTTON: 'button',
+  DIV: 'div'
 };
