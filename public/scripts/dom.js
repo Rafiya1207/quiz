@@ -15,4 +15,13 @@ export const createFragment = ([tag, attrs, ...content]) => {
 
 export const cls = (value) => ({ class: value });
 
-export const ELEMENTS = {};
+export const ELEMENTS = {
+  ARTICLE: 'article',
+  FORM: 'form',
+  FIELDSET: 'fieldset',
+  LEGEND: 'legend',
+  H2: 'h2',
+  INPUT: 'input',
+  LABEL: 'label',
+  BUTTON: 'button'
+};
